@@ -5,6 +5,7 @@ Hello! I'm Prince Adufah, an Urban Planner, and aspiring Data Scientist & with a
 
 [LinkedIn](www.linkedin.com/in/princeadufah)
 
+
 **About Me**
 
 🌱 I’m currently learning Data Science and Analytics
