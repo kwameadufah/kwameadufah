@@ -1,4 +1,5 @@
-Welcome to My GitHub Profile 👋
+**Welcome to My GitHub Profile 👋**
+
 Hello! I'm Prince Adufah, an Urban Planner, and aspiring Data Scientist & with a keen interest Geographic Information Systems, urban resilience, smart mobility and livable streets. 
 
 **📫 Connect with Me**
