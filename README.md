@@ -1,6 +1,6 @@
 **Welcome to My GitHub Profile 👋**
 
-Hello! I'm Prince Adufah, an Urban Planner, and aspiring Data Scientist & with a keen interest Geographic Information Systems, urban resilience, smart mobility and livable streets. 
+Hello! I'm Prince Adufah, an Urban Planner, and aspiring Data Scientist & with a keen interest in Geographic Information Systems, urban resilience, and smart mobility. 
 
 **📫 Connect with Me**
 
@@ -17,9 +17,9 @@ Hello! I'm Prince Adufah, an Urban Planner, and aspiring Data Scientist & with a
 
 Here are some technologies and tools I work with:
 
-Geographic Information Systems: QGIS, ArcGIS
+- Geographic Information Systems: QGIS, ArcGIS
 
-Programming Languages: Python, SQL
+- Programming Languages: Python, SQL
 
 
 <!---
