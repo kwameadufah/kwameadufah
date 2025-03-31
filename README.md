@@ -6,7 +6,9 @@ Hello! I'm Prince Adufah, an Urban Planner, and aspiring Data Scientist & with a
 LinkedIn
 
 About Me
+
 🌱 I’m currently learning Data Science and Analytics
+
 💬 Ask me about QGIS, ArcGIS, SQL, Python, and data visualization
 
 Skills and Tools
@@ -14,6 +16,7 @@ Skills and Tools
 Here are some technologies and tools I work with:
 
 Geographic Information Systems: QGIS, ArcGIS
+
 Programming Languages: Python, SQL
 
 
